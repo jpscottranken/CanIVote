@@ -1,0 +1,10 @@
+C:\Users\jpscott\Desktop\CanIVote\CanIVote\CanIVoteIfStatements\bin\Debug\CanIVoteIfStatements.exe.config
+C:\Users\jpscott\Desktop\CanIVote\CanIVote\CanIVoteIfStatements\bin\Debug\CanIVoteIfStatements.exe
+C:\Users\jpscott\Desktop\CanIVote\CanIVote\CanIVoteIfStatements\bin\Debug\CanIVoteIfStatements.pdb
+C:\Users\jpscott\Desktop\CanIVote\CanIVote\CanIVoteIfStatements\obj\Debug\CanIVoteIfStatements.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\CanIVote\CanIVote\CanIVoteIfStatements\obj\Debug\CanIVoteIfStatements.frmCanIVoteIfStatements.resources
+C:\Users\jpscott\Desktop\CanIVote\CanIVote\CanIVoteIfStatements\obj\Debug\CanIVoteIfStatements.Properties.Resources.resources
+C:\Users\jpscott\Desktop\CanIVote\CanIVote\CanIVoteIfStatements\obj\Debug\CanIVoteIfStatements.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\CanIVote\CanIVote\CanIVoteIfStatements\obj\Debug\CanIVoteIfStatements.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\CanIVote\CanIVote\CanIVoteIfStatements\obj\Debug\CanIVoteIfStatements.exe
+C:\Users\jpscott\Desktop\CanIVote\CanIVote\CanIVoteIfStatements\obj\Debug\CanIVoteIfStatements.pdb
